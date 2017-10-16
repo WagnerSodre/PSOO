@@ -1,0 +1,4 @@
+PSOO.App.MainActivity, PSOO.App;md5aa0b40381ddbc1feafc6983b856910cd.MainActivity
+PSOO.App.MainActivity, PSOO.App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5aa0b40381ddbc1feafc6983b856910cd.MainActivity
+PSOO.App.MainActivity;md5aa0b40381ddbc1feafc6983b856910cd.MainActivity
+psoo.app.MainActivity;md5aa0b40381ddbc1feafc6983b856910cd.MainActivity

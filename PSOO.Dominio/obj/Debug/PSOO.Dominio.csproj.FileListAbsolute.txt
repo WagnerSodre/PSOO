@@ -1,0 +1,5 @@
+c:\Users\silva\OneDrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.Dominio\bin\Debug\PSOO.Dominio.dll
+c:\Users\silva\OneDrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.Dominio\bin\Debug\PSOO.Dominio.pdb
+c:\Users\silva\OneDrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.Dominio\obj\Debug\PSOO.Dominio.csprojResolveAssemblyReference.cache
+c:\Users\silva\OneDrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.Dominio\obj\Debug\PSOO.Dominio.dll
+c:\Users\silva\OneDrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.Dominio\obj\Debug\PSOO.Dominio.pdb

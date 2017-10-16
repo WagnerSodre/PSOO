@@ -1,0 +1,15 @@
+c:\users\silva\onedrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.App\bin\Debug\PSOO.App.dll
+c:\users\silva\onedrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.App\bin\Debug\PSOO.App.pdb
+c:\users\silva\onedrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.App\bin\Debug\PSOO.App.PSOO.App.apk
+c:\users\silva\onedrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.App\bin\Debug\PSOO.App.PSOO.App-Signed.apk
+c:\users\silva\onedrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.App\bin\Debug\PSOO.Dominio.dll
+c:\users\silva\onedrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.App\bin\Debug\PSOO.Dominio.pdb
+c:\users\silva\onedrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.App\obj\Debug\PSOO.App.csprojResolveAssemblyReference.cache
+c:\users\silva\onedrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.App\obj\Debug\PSOO.App.dll
+c:\users\silva\onedrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.App\obj\Debug\PSOO.App.pdb
+c:\users\silva\onedrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.App\obj\Debug\android\bin\PSOO.App.PSOO.App.apk
+c:\users\silva\onedrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.App\obj\Debug\res\layout\main.xml
+c:\users\silva\onedrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.App\obj\Debug\res\values\strings.xml
+c:\users\silva\onedrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.App\obj\Debug\res\drawable\icon.png
+c:\users\silva\onedrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.App\obj\Debug\R.cs.flag
+c:\users\silva\onedrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.App\obj\Debug\uploadflags.txt
