@@ -1,12 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PSOO.Dominio
 {
-    class Mensagem
+    public class Mensagem : IEntidade
     {
         public int Id { get; set; }
         public Usuario Iniciador { get; set; }
@@ -14,8 +11,21 @@ namespace PSOO.Dominio
         public string Localizacao { get; set; }
         public DateTime DataHora { get; set; }
         public string Texto { get; set; }
-        public void addContatoMensagem(Contato Contato) { }
-        public void enviarMensagem() { }
-        public void enviarTexto(string texto) { }
+
+
+        public void addContatoMensagem(Contato Contato)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void enviarMensagem()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void enviarTexto(string texto)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

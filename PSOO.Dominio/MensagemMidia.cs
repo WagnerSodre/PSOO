@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PSOO.Dominio
 {
-    class MensagemMidia
+    public class MensagemMidia : Mensagem
     {
         public byte[] conteudo { get; set; }
         public void mensagemMidia(byte[] conteudo) { }

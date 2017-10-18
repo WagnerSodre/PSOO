@@ -3,5 +3,8 @@
   <PropertyGroup>
     <SelectedDevice>Android_Accelerated_Nougat</SelectedDevice>
     <DefaultDevice>Android_Accelerated_Nougat</DefaultDevice>
+    <ProjectView>ProjectFiles</ProjectView>
+    <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
+    <AndroidDesignerPreferredTheme>Theme.DeviceDefault.Light.DarkActionBar</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>

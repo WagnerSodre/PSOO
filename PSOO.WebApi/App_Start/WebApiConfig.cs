@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using PSOO.WebApi.App_Start;
 using System.Web.Http;
+using System.Web.Http.ExceptionHandling;
 
 namespace PSOO.WebApi
 {
@@ -9,9 +8,9 @@ namespace PSOO.WebApi
     {
         public static void Register(HttpConfiguration config)
         {
-            // Serviços e configuração da API da Web
+            config.Formatters.Add(new ResponseFormatter());
+            config.Services.Replace(typeof(IExceptionHandler), new CustomErrorHandlerAttribute()); 
 
-            // Rotas da API da Web
             config.MapHttpAttributeRoutes();
 
             config.Routes.MapHttpRoute(

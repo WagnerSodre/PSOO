@@ -99,7 +99,10 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "PSOO.App.dll" comes first in this list. */
 		"PSOO.App.dll",
+		"PSOO.DAO.dll",
 		"PSOO.Dominio.dll",
+		"PSOO.IDAO.dll",
+		"PSOO.Servico.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

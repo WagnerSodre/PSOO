@@ -53,17 +53,40 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MainActivity.cs" />
+    <Compile Include="BluetoothController.cs" />
+    <Compile Include="ContatosController.cs" />
+    <Compile Include="LoginController.cs" />
+    <Compile Include="MensagemController.cs" />
+    <Compile Include="Models\BluetoothModel.cs" />
+    <Compile Include="Models\ContatosModel.cs" />
+    <Compile Include="Models\LoginModel.cs" />
+    <Compile Include="Models\MensagemModel.cs" />
+    <Compile Include="Models\UsuarioModel.cs" />
+    <Compile Include="PerfilController.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StartApplication\Configuracao.cs" />
+    <Compile Include="StartApplication\ManagerInjector.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="GettingStarted.Xamarin" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
+    <AndroidResource Include="Resources\layout\MensagemView.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\PerfilView.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ContatosView.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\BluetoothView.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\layout\Main.axml">
+    <AndroidResource Include="Resources\layout\LoginView.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
@@ -77,9 +100,21 @@
     <None Include="Properties\AndroidManifest.xml" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\PSOO.DAO\PSOO.DAO.csproj">
+      <Project>{3A22BCBD-82E3-473B-BEDA-5A0DDE11ACE5}</Project>
+      <Name>PSOO.DAO</Name>
+    </ProjectReference>
     <ProjectReference Include="..\PSOO.Dominio\PSOO.Dominio.csproj">
       <Project>{3d96d3fc-434d-4759-8ffd-e6b6ec7bd82a}</Project>
       <Name>PSOO.Dominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PSOO.IDAO\PSOO.IDAO.csproj">
+      <Project>{4328C970-C1C0-4071-8351-22A927C272DD}</Project>
+      <Name>PSOO.IDAO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PSOO.Servico\PSOO.Servico.csproj">
+      <Project>{5E3F671F-6539-4755-9E6F-F5D664617E2D}</Project>
+      <Name>PSOO.Servico</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

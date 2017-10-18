@@ -13,3 +13,38 @@ c:\users\silva\onedrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.App
 c:\users\silva\onedrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.App\obj\Debug\res\drawable\icon.png
 c:\users\silva\onedrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.App\obj\Debug\R.cs.flag
 c:\users\silva\onedrive\documentos\visual studio 2017\Projects\PSOO.App\PSOO.App\obj\Debug\uploadflags.txt
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\bin\Debug\PSOO.App.dll
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\bin\Debug\PSOO.App.pdb
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\bin\Debug\PSOO.App.PSOO.App.apk
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\bin\Debug\PSOO.App.PSOO.App-Signed.apk
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\bin\Debug\PSOO.Dominio.dll
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\bin\Debug\PSOO.Dominio.pdb
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\obj\Debug\PSOO.App.csprojResolveAssemblyReference.cache
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\obj\Debug\PSOO.App.dll
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\obj\Debug\PSOO.App.pdb
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\obj\Debug\android\bin\PSOO.App.PSOO.App.apk
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\obj\Debug\res\values\strings.xml
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\obj\Debug\res\drawable\icon.png
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\obj\Debug\R.cs.flag
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\obj\Debug\uploadflags.txt
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\obj\Debug\res\layout\mensagemview.xml
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\obj\Debug\res\layout\perfilview.xml
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\obj\Debug\res\layout\contatosview.xml
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\obj\Debug\res\layout\bluetoothview.xml
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\obj\Debug\res\layout\loginview.xml
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\bin\Debug\PSOO.DAO.dll
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\bin\Debug\PSOO.IDAO.dll
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\bin\Debug\PSOO.Servico.dll
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\bin\Debug\PSOO.DAO.pdb
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\bin\Debug\PSOO.IDAO.pdb
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\bin\Debug\PSOO.Servico.pdb
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\bin\Debug\PSOO.DAO.dll.mdb
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\bin\Debug\PSOO.Dominio.dll.mdb
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\bin\Debug\PSOO.IDAO.dll.mdb
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\bin\Debug\PSOO.Servico.dll.mdb
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\bin\Debug\PSOO.App.dll.mdb
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\obj\Debug\android\assets\PSOO.App.dll.mdb
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\obj\Debug\android\assets\PSOO.DAO.dll.mdb
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\obj\Debug\android\assets\PSOO.Dominio.dll.mdb
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\obj\Debug\android\assets\PSOO.IDAO.dll.mdb
+C:\Users\silva\Desktop\PSOO-master\PSOO-master\PSOO.App\obj\Debug\android\assets\PSOO.Servico.dll.mdb

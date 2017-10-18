@@ -40,11 +40,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="ContatoServico.cs" />
+    <Compile Include="IServico\IContatoServico.cs" />
+    <Compile Include="IServico\IMensagemServico.cs" />
+    <Compile Include="IServico\IPerfilServico.cs" />
+    <Compile Include="IServico\IUsuarioServico.cs" />
+    <Compile Include="MensagemServico.cs" />
+    <Compile Include="PerfilServico.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UsuarioServico.cs" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="IServico\" />
+    <ProjectReference Include="..\PSOO.Dominio\PSOO.Dominio.csproj">
+      <Project>{3D96D3FC-434D-4759-8FFD-E6B6EC7BD82A}</Project>
+      <Name>PSOO.Dominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PSOO.IDAO\PSOO.IDAO.csproj">
+      <Project>{4328C970-C1C0-4071-8351-22A927C272DD}</Project>
+      <Name>PSOO.IDAO</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

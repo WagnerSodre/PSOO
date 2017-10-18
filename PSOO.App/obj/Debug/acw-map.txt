@@ -1,4 +1,20 @@
-PSOO.App.MainActivity, PSOO.App;md5aa0b40381ddbc1feafc6983b856910cd.MainActivity
-PSOO.App.MainActivity, PSOO.App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5aa0b40381ddbc1feafc6983b856910cd.MainActivity
-PSOO.App.MainActivity;md5aa0b40381ddbc1feafc6983b856910cd.MainActivity
-psoo.app.MainActivity;md5aa0b40381ddbc1feafc6983b856910cd.MainActivity
+PSOO.App.BluetoothController, PSOO.App;md5aa0b40381ddbc1feafc6983b856910cd.BluetoothController
+PSOO.App.BluetoothController, PSOO.App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5aa0b40381ddbc1feafc6983b856910cd.BluetoothController
+PSOO.App.BluetoothController;md5aa0b40381ddbc1feafc6983b856910cd.BluetoothController
+psoo.app.BluetoothController;md5aa0b40381ddbc1feafc6983b856910cd.BluetoothController
+PSOO.App.ContatosController, PSOO.App;md5aa0b40381ddbc1feafc6983b856910cd.ContatosController
+PSOO.App.ContatosController, PSOO.App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5aa0b40381ddbc1feafc6983b856910cd.ContatosController
+PSOO.App.ContatosController;md5aa0b40381ddbc1feafc6983b856910cd.ContatosController
+psoo.app.ContatosController;md5aa0b40381ddbc1feafc6983b856910cd.ContatosController
+PSOO.App.LoginController, PSOO.App;md5aa0b40381ddbc1feafc6983b856910cd.LoginController
+PSOO.App.LoginController, PSOO.App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5aa0b40381ddbc1feafc6983b856910cd.LoginController
+PSOO.App.LoginController;md5aa0b40381ddbc1feafc6983b856910cd.LoginController
+psoo.app.LoginController;md5aa0b40381ddbc1feafc6983b856910cd.LoginController
+PSOO.App.MensagemController, PSOO.App;md5aa0b40381ddbc1feafc6983b856910cd.MensagemController
+PSOO.App.MensagemController, PSOO.App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5aa0b40381ddbc1feafc6983b856910cd.MensagemController
+PSOO.App.MensagemController;md5aa0b40381ddbc1feafc6983b856910cd.MensagemController
+psoo.app.MensagemController;md5aa0b40381ddbc1feafc6983b856910cd.MensagemController
+PSOO.App.PerfilController, PSOO.App;md5aa0b40381ddbc1feafc6983b856910cd.PerfilController
+PSOO.App.PerfilController, PSOO.App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5aa0b40381ddbc1feafc6983b856910cd.PerfilController
+PSOO.App.PerfilController;md5aa0b40381ddbc1feafc6983b856910cd.PerfilController
+psoo.app.PerfilController;md5aa0b40381ddbc1feafc6983b856910cd.PerfilController
